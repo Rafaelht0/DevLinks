@@ -26,7 +26,7 @@ assets/
 
 ## ▶️ Como rodar
 
-Basta abrir o arquivo `assets/index.html` no navegador.
+Basta abrir o arquivo `index.html` no navegador.
 
 ## ✍️ Autor
 
