@@ -18,10 +18,13 @@ Perfil com foto, @ de usuário e botões de link para:
 
 ```
 assets/
-├── index.html
-├── style.css
 ├── Avatar.png
-└── bg-mobile.jpg
+├── bg-mobile-light.jpg
+├── bg-mobile.jpg
+├── moon-stars.svg
+└── sun.svg
+index.html
+style.css
 ```
 
 ## ▶️ Como rodar
